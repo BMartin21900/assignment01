@@ -94,7 +94,7 @@ a {
 
 .sidebar {
   position: fixed;
-  background: linear-gradient(to right, #ffffff, #fffdfd);
+  background: linear-gradient(to right, yellow, orange);
   width: 20em;
   height: 100vh;
   text-align: center;
