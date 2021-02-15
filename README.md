@@ -1,7 +1,19 @@
-# Assignment 1 : City Website
+# Assignment 2: Github
 
-The content of this website is all about the city of Columbus, Ohio, my hometown! I was born and grew up there, so this was the perfect opportunity to demonstrate what makes it so wonderful. The website built contains pages for each of the topics about the city of Columbus, OH. Pages include History, Geography, Economy, Demographics, and Arts & Culture. 
+Make improvements to Emma Campbell's Assignment 01. You can check out her
+github repo ("https://github.com/emma-campbell/assignment01")
 
-The interface designed is centered around the navigation sidebar. The fixed sidebar is the primary navigation method. Links included will send you to the appropriate page. 
-
-The live website can be viewed [here](https://emmacampbell.digitalscholar.rochester.edu/assignments/assignment01/index.html)
+Improvements: 
+* Layout: changed the image position for each html section/page. 
+I have moved the image position from the top of the page to the bottom
+of the page. I think this change is "better" in my opinion because 
+I would want the audience or reader to grasp some of the information
+from the paragraphs, have a visual in their head, and then check out what
+it actually looks like. I think they are able to absorb more information that way. 
+* Embellishment: I changed the navbar color to a sunset theme. The
+sunset theme is yellow faded into orange. I think this is "better" 
+in my opinion because the whole website was white and by changing the
+navbar color, it separates the two sections: navbar and content. 
+Additionally, it adds more depth and design than a white canvas as it was before.
+* Important to note: The website is beautifully created by Emma for Assignment 1 under
+a one week constraint. 
