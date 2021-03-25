@@ -1,7 +1,7 @@
 *,body {
   margin: 0;
   padding: 0;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -20,7 +20,7 @@ li {
 }
 
 h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Fjalla One', sans-serif;
     font-size: 2em;
 }
 
@@ -73,20 +73,6 @@ a {
     padding: 0;
 }
 
-.nav-link::before {
-    transition: 200ms ease-out;
-    height: 0.1563rem;
-    content: "";
-    position: absolute;
-    background-color: black;
-    width: 0%;
-    bottom: -0.125rem;
-}
-
-.nav-link:hover::before {
-    width: 100%;
-}
-
 
 .shadow {
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -94,7 +80,7 @@ a {
 
 .sidebar {
   position: fixed;
-  background: linear-gradient(to right, yellow, orange);
+  background: linear-gradient(yellow, orange);
   width: 20em;
   height: 100vh;
   text-align: center;
@@ -103,3 +89,23 @@ a {
 .text-center {
     text-align: center;
 }
+
+nav li {
+    background: linear-gradient(to left, #1f1e1d 50%, orange 50%, yellow ) right;
+    background-size: 200%;
+    color:white;
+    transition: .5s ease-out;
+}
+nav li:hover {
+    background-position: left;
+    color:black;
+}
+
+.is-current{
+    background-position: left;
+    color:black;
+}
+.is-current a:hover{
+    cursor: default;
+}
+
