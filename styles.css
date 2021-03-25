@@ -109,3 +109,6 @@ nav li:hover {
     cursor: default;
 }
 
+.logo{
+    font-family: 'Fjalla One', sans-serif;
+}
