@@ -14,9 +14,9 @@ h1{
     font-size: 2em;
 }
 
-I choose Fjalla One for the font as the content of the page is very straight forward and content heavy. So it would make sense to have something direct as well. But the design of the font is not boring yet offical encouraging people to stay on the page. I would say it falls under the geometric category which perfectly fits the intent of the webpage.
+I choose Fjalla One for the font as the content of the page is very straight forward and content heavy. So it would make sense to have something direct as well. The design of the font is not boring yet offical encouraging people to stay on the page. I would say it falls under the geometric category which perfectly fits the intent of the webpage. I plan to use this for all headings and the logo.
 
-I choose Roboto because google said it was a good match for Fjalla One.
+I choose Roboto because google said it was a good match for Fjalla One. This will be all text that is not Fjalla One.
 
 Besides changing the font these are the edits I did...
 
